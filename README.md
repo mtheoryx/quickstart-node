@@ -9,11 +9,13 @@ own local environment, with file watching and auto running of your script,
 Clone this repository
 
 ```bash
+git clone git@github.com:mtheoryx/quickstart-node.git && cd quickstart-node
 ```
 
 Install dependencies (there's 1)
 
 ```bash
+npm install
 ```
 
 ## Run
@@ -21,6 +23,7 @@ Install dependencies (there's 1)
 Start the file watcher
 
 ```bash
+npm run start
 ```
 
 Edit index.js
