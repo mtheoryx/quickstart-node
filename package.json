@@ -1,0 +1,23 @@
+{
+  "name": "quickstart-node",
+  "version": "1.0.0",
+  "description": "Super quick file-watching node script setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtheoryx/quickstart-node.git"
+  },
+  "keywords": [],
+  "author": "David R Poindexter III",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtheoryx/quickstart-node/issues"
+  },
+  "homepage": "https://github.com/mtheoryx/quickstart-node#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
